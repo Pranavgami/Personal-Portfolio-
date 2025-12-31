@@ -27,7 +27,7 @@ const Project = (props) => {
           <div className="project-detail">
             <div className="project-logos">
               <a
-                href="https://github.com/MrSadariya/Portfolio"
+                href="https://github.com/Pranavgami/Portfolio"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -50,14 +50,14 @@ const Project = (props) => {
           <div className="project-detail">
             <div className="project-logos">
               <a
-                href="https://github.com/MrSadariya/Bookify"
+                href="https://github.com/Pranavgami/Bookify"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <FontAwesomeIcon icon={faGithub} className="logooo" />
               </a>
               <a
-                href="https://github.com/MrSadariya/Bookify"
+                href="https://github.com/Pranavgami/Bookify"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -77,7 +77,7 @@ const Project = (props) => {
           <div className="project-detail">
             <div className="project-logos">
               <a
-                href="https://github.com/MrSadariya/core"
+                href="https://github.com/Pranavgami/core"
                 target="_blank"
                 rel="noopener noreferrer"
               >

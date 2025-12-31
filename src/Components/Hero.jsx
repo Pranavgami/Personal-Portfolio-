@@ -3,8 +3,6 @@ import "./Hero.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { ModeContext } from "../Context/ModeContext";
-// import leetcode from "../Static/leetcodeIcon.png";
-// import codeforces from "../Static/CodeforcesIcon.png";
 
 const Hero = (props) => {
   let ModeInfo = useContext(ModeContext);
@@ -21,7 +19,7 @@ const Hero = (props) => {
           className={`desc-detail ${ModeInfo.isDark ? "Darkdesc-detail" : ""}`}
         >
           <a
-            href="https://drive.google.com/drive/folders/1blQiRzpmgESY2iEnPWtV3Gug8IlOHfzr?usp=drive_link"
+            href="https://drive.google.com/file/d/1GskYSCrI5zJMy-56XhX_W5HV-RNO0nPk/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >

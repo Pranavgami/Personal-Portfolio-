@@ -98,7 +98,7 @@ const Navbar = (props) => {
         </div>
         <div style={{ position: "fixed", bottom: "2rem" }}>
           <a
-            href="https://github.com/MrSadariya"
+            href="https://github.com/Pranavgami"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: ModeInfo.isDark ? "black" : "white" }}
@@ -109,7 +109,7 @@ const Navbar = (props) => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/parth-sadariya-19058825b/"
+            href="https://www.linkedin.com/in/pranav-gami-b67b56281/"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: ModeInfo.isDark ? "black" : "white" }}
