@@ -19,7 +19,7 @@ const AboutMe = (props) => {
 
         <div className="a-detail">
           <div className="a-intro">
-            I'm Pranav Sadariya, a pre-final year Computer Science student at LJ
+            I'm Pranav Gami, a pre-final year Computer Science student at LJ
             Institute of Engineeirng & Technology-Ahmedabad. I'm a passionate
             full-stack web developer and competitive programmer with a strong
             eagerness to learn and explore new technologies. My journey in tech
